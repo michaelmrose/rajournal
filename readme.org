@@ -78,12 +78,13 @@ This app will be implimented using the MERN stack as a SPA that will provide dat
 
 ** Strech
 *** Add activity from the google fit API to today/history/graph
-https://developers.google.com/fit
+See https://developers.google.com/fit
 *** Log in with ...
 Let users log in with android and apple authentication
 *** Search notes
+Search full text of notes
 *** Graph
-- Show a graph of values taken from prior entries by week/month/year/all time
+Show a graph of values taken from prior entries by week/month/year/all time
 
 ** Icebox
 
