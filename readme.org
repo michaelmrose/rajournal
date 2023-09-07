@@ -66,17 +66,17 @@ See UI.pdf for a semi interactive preview
 ** MVP
 This app will be implimented using the MERN stack as a SPA that will provide data needed to render the following pages
 *** Today
- Enter details about how you are feeling today
- Note important events that happened today
- Add Notes
+ - Enter details about how you are feeling today
+ - Note important events that happened today
+ - Add Notes
 *** History
-Show a list of entries you can edit or delete
+- Show a list of entries you can edit or delete
 *** Graph
-Show a graph of values taken from prior entries by week/month/year/all time
+- Show a graph of values taken from prior entries by week/month/year/all time
 *** Notes
-Read Edit Create Notes
+- Read Edit Create Notes
 *** Resources
-Provide links to common resources where people can learn and connect with other users living with the same problems
+- Provide links to common resources where people can learn and connect with other users living with the same problems
 
 ** Strech
 Add activity from the google fit API to today/history/graph
