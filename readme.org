@@ -71,18 +71,19 @@ This app will be implimented using the MERN stack as a SPA that will provide dat
  - Add Notes
 *** History
 - Show a list of entries you can edit or delete
-*** Graph
-- Show a graph of values taken from prior entries by week/month/year/all time
 *** Notes
 - Read Edit Create Notes
 *** Resources
 - Provide links to common resources where people can learn and connect with other users living with the same problems
 
 ** Strech
-Add activity from the google fit API to today/history/graph
+*** Add activity from the google fit API to today/history/graph
 https://developers.google.com/fit
-** Log in with ...
+*** Log in with ...
 Let users log in with android and apple authentication
+*** Search notes
+*** Graph
+- Show a graph of values taken from prior entries by week/month/year/all time
 
 ** Icebox
 
