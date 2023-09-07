@@ -38,17 +38,17 @@ See UI.pdf for a semi interactive preview
 
 
 * ERD
-[[file:erd.png]]
+[[file:ERD.png]]
 * User Stories
 ** MVP
 - As a user I would like to be able to quickly on a single form that is easily used by touch even when my hands hurt journal about how I felt today including pain level, stiffness, fatigue, and sleep.
 - As a user I would like to be able to note important life events that effected my symptoms like diet, activity, changes in medication.
-- As a user I would like to see a graph of these observations in context of these events and identify trends.
 - As a user I would like to see a list of the notes I had made.
-- As a user I would like to be able to search these notes by entering a search string
 - As a user I would like to be able to create, edit, delete these notes
 - As a user I would like to see a list of common reputible resources where I can learn about my condition, treatment options, and connect with users like myself
 ** Stretch
+- As a user I would like to see a graph of these observations in context of these events and identify trends.
+- As a user I would like to be able to search these notes by entering a search string
 - As a user I would like to see information from my google fit like steps, move minutes,
 - As a user I would like to be able to share a particular note to my social media
 
